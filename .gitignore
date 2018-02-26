@@ -101,3 +101,7 @@ ENV/
 .mypy_cache/
 
 RUNS/
+runs/
+checkpoint
+data/
+segmentation_net*
